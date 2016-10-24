@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>/blog/2016/06/01/crv-lider-price/</loc>
+      <loc>/2016/06/01/crv-lider-price.html</loc>
       
         <lastmod>2016-06-01T00:00:00+02:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>/blog/2016/04/16/honda-american-crv/</loc>
+      <loc>/2016/04/16/honda-american-crv.html</loc>
       
         <lastmod>2016-04-16T00:00:00+02:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>/blog/2016/01/02/new-crv/</loc>
+      <loc>/2016/01/02/new-crv.html</loc>
       
         <lastmod>2016-01-02T00:00:00+02:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>/blog/2016/01/01/new-pilot/</loc>
+      <loc>/2016/01/01/new-pilot.html</loc>
       
         <lastmod>2016-01-01T00:00:00+02:00</lastmod>
       
@@ -65,9 +65,9 @@
     
       
       <url>
-        <loc>/crv.html</loc>
+        <loc>/cars/blog/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -84,7 +84,7 @@
       <url>
         <loc>/cars/crv/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
       <url>
         <loc>/cars/new/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -118,7 +118,7 @@
       <url>
         <loc>/cars/new-cars/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -135,7 +135,7 @@
       <url>
         <loc>/cars/pilot/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -152,7 +152,7 @@
       <url>
         <loc>/cars/quality/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -169,7 +169,7 @@
       <url>
         <loc>/cars/service/oil/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -186,7 +186,7 @@
       <url>
         <loc>/cars/used-cars/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -203,7 +203,7 @@
       <url>
         <loc>/cars/yandex/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -220,24 +220,7 @@
       <url>
         <loc>/</loc>
         
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
-        
-        
-          <changefreq>monthly</changefreq>
-        
-        
-          <priority>0.3</priority>
-        
-      </url>
-      
-    
-  
-    
-      
-      <url>
-        <loc>/cars/blog/</loc>
-        
-          <lastmod>2016-10-24T21:04:45+02:00</lastmod>
+          <lastmod>2016-10-24T21:50:43+02:00</lastmod>
         
         
           <changefreq>monthly</changefreq>
